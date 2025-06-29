@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ENS160-BGLM"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-02-03-13:42:21)
+    (mountForm default
+        (footprintRef "ENS160BGLM")
+        (spec "System")
+    )
+)

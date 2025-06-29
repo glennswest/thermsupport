@@ -1,0 +1,9 @@
+Manufacturer=KEMET
+PartNumber=UC2-3NJ
+PartCategory=Relay or Contactor
+PackageCategory=Other
+PinCount=8
+Version=4.3
+Released=2020-02-18 11:54:55
+Downloaded=2025-06-19 20:10:50
+3D=Y

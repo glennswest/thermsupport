@@ -1,0 +1,16 @@
+.RCLAMP1654P.TCT :1 ;Semtech RCLAMP1654P.TCT Triple Uni-Directional TVS Diode Array, 200W peak, 6-Pin SLP EP
+SON50P160X160X65-7N
+*STM IC
+*NGS
+*PLB 1="DM" 2="DP" 3="USB ID" 4="NC_1" 5="NC_2" 6="VBUS" 7="GND"
+*MXP 7
+*DFN RCLAMP1654P.TCT
+~!Mouser Part Number (947-RCLAMP1654P.TCT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Semtech/RCLAMP1654P.TCT?qs=rBWM4%252BvDhIfGmhnOIHwLRQ%3D%3D)
+~!Manufacturer_Name (SEMTECH)
+~!Manufacturer_Part_Number (RCLAMP1654P.TCT)
+~!Link Datasheet (https://www.arrow.com/en/products/rclamp1654p.tct/semtech)
+~!Height (0.65mm)
+~!3D_Model (RCLAMP1654P.TCT)
+RCLAMP1654P.TCT
+1.1!U 2.1!U 3.1!U 7.1!U 6.1!U 5.1!U 4.1!U 

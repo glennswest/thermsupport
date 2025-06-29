@@ -1,0 +1,16 @@
+.UD2-3NUN-L :1 ;KEMET, UD2, Relays, Signal, 3 V, 220 V, 250 VAC, 1 A, 100 mOhms, 1 GOhms, 10.6mm, 6.5mm, 6mm
+UD23NUNL
+*STM K
+*NGS
+*PLB 1="COIL+" 2="NC_1" 3="COM_1" 4="NO_1" 5="NO_2" 6="COM_2" 7="NC_2" 8="COIL-"
+*MXP 8
+*DFN UD2-3NUN-L
+~!Mouser Part Number (80-UD2-3NUN-L)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/KEMET/UD2-3NUN-L?qs=Mg2Do3ryY8vvp%2Ff1QhaKig%3D%3D)
+~!Manufacturer_Name (KEMET)
+~!Manufacturer_Part_Number (UD2-3NUN-L)
+~!Link Datasheet (https://content.kemet.com/datasheets/KEM_R7005_UC2_UD2.pdf)
+~!Height (6mm)
+~!3D_Model (UD2-3NUN-L)
+UD2-3NUN-L
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

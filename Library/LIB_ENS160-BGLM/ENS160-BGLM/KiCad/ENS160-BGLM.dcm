@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ENS160-BGLM
+D Air Quality Sensors ENS160-BGLM LGA9 T&R 500
+K
+F https://www.sciosense.com/wp-content/uploads/documents/SC-001224-DS-6-ENS160-Datasheet-Version-1.0-1.pdf
+$ENDCMP
+#
+#End Doc Library

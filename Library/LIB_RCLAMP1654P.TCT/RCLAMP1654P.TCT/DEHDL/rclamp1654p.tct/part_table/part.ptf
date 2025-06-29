@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RCLAMP1654P.TCT'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "SEMTECH", "RCLAMP1654P.TCT" (!) = "", "SON50P160X160X65-7N", "Small Outline No-lead", "947-RCLAMP1654P.TCT", "https://www.mouser.co.uk/ProductDetail/Semtech/RCLAMP1654P.TCT?qs=rBWM4%252BvDhIfGmhnOIHwLRQ%3D%3D", "Semtech RCLAMP1654P.TCT Triple Uni-Directional TVS Diode Array, 200W peak, 6-Pin SLP EP", "https://www.arrow.com/en/products/rclamp1654p.tct/semtech", "0.65 mm"
+END_PART
+
+END.

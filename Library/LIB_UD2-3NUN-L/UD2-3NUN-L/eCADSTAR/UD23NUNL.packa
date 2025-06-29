@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "UD2-3NUN-L"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-07-01-08:52:34)
+    (mountForm default
+        (footprintRef "UD23NUNL")
+        (spec "System")
+    )
+)

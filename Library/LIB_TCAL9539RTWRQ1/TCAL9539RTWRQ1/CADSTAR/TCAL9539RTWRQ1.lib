@@ -1,0 +1,16 @@
+.TCAL9539RTWRQ1 :1 ;Interface - I/O Expanders Automotive 16-bit low voltage IC/SMBus I/O expander w/interrupt, reset and agile I/O configuration 24-WQFN -40 to 125
+QFN50P400X400X80-25N-D
+*STM IC
+*NGS
+*PLB 1="P00" 2="P01" 3="P02" 4="P03" 5="P04" 6="P05" 7="P06" 8="P07" 9="GND" 10="P10" 11="P11" 12="P12" 13="P13" 14="P14" 15="P15" 16="P16" 17="P17" 18="A0" 19="SCL" 20="SDA" 21="VCC" 22="'INT'" 23="A1" 24="'RESET'" 25="EP"
+*MXP 25
+*DFN TCAL9539RTWRQ1
+~!Mouser Part Number (595-TCAL9539RTWRQ1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCAL9539RTWRQ1?qs=HoCaDK9Nz5cqBCs4xXWfwA%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TCAL9539RTWRQ1)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/tcal9539-q1.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1700652795434&ref_url=https%253A%252F%252Fwww.mouser.co.il%252F)
+~!Height (0.8mm)
+~!3D_Model (TCAL9539RTWRQ1)
+TCAL9539RTWRQ1
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 

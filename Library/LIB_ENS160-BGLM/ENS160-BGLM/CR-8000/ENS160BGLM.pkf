@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ENS160BGLM"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ENS160BGLM")
+        (spec "default")
+    )
+)

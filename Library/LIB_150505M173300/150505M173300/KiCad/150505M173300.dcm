@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 150505M173300
+D 2.4 V RGB LED 5050  SMD, Wurth Elektronik WL-SFTW 150505M173300
+K
+F https://www.we-online.com/components/products/datasheet/150505M173300.pdf
+$ENDCMP
+#
+#End Doc Library

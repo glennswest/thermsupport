@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=10142048-22
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=7
+Version=1.4
+Released=2022-09-14 14:09:11
+Downloaded=2025-06-22 20:16:07
+3D=Y

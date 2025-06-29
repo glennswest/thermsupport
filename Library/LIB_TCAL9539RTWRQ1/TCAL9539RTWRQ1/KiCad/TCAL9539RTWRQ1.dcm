@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCAL9539RTWRQ1
+D Interface - I/O Expanders Automotive 16-bit low voltage IC/SMBus I/O expander w/interrupt, reset and agile I/O configuration 24-WQFN -40 to 125
+K
+F https://www.ti.com/lit/ds/symlink/tcal9539-q1.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1700652795434&ref_url=https%253A%252F%252Fwww.mouser.co.il%252F
+$ENDCMP
+#
+#End Doc Library

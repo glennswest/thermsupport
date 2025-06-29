@@ -624,6 +624,38 @@
     [
       "686b9866-3865-4d33-9dc5-bbd635d61210",
       "bridgeusb"
+    ],
+    [
+      "6093078e-592e-4555-945c-559c2b52eb08",
+      "relay"
+    ],
+    [
+      "8e975dc4-ece0-427c-b1ab-00d60731c0ce",
+      "relaydrive"
+    ],
+    [
+      "ce9cfca4-45b6-4339-ac99-5fd4def9d4df",
+      "relaydrive1"
+    ],
+    [
+      "8df4fed0-c20e-4419-8f7b-9c27e01d89ea",
+      "relaydrive2"
+    ],
+    [
+      "63767031-99b1-47a3-99bd-7f79356f976a",
+      "relaydrive3"
+    ],
+    [
+      "ad5c91f9-0914-4aed-a89f-e6ebf081a527",
+      "relaydrive4"
+    ],
+    [
+      "cf1badc6-21c3-4c6c-bb33-4dfd2f0490f2",
+      "relaydrive5"
+    ],
+    [
+      "41c499a5-fec1-41ec-b88f-abc5d5b7834f",
+      "sensors"
     ]
   ],
   "text_variables": {}

@@ -1,0 +1,9 @@
+Manufacturer=SEMTECH
+PartNumber=RCLAMP1654P.TCT
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=7
+Version=2.1
+Released=2020-06-27 10:41:27
+Downloaded=2025-06-19 17:59:21
+3D=Y

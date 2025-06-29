@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "RCLAMP1654P_TCT"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-10-29-16:08:29)
+    (mountForm default
+        (footprintRef "SON50P160X160X65-7N")
+        (spec "System")
+    )
+)

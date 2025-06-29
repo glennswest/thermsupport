@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RCLAMP1654P.TCT
+D Semtech RCLAMP1654P.TCT Triple Uni-Directional TVS Diode Array, 200W peak, 6-Pin SLP EP
+K
+F https://www.arrow.com/en/products/rclamp1654p.tct/semtech
+$ENDCMP
+#
+#End Doc Library

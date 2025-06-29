@@ -1,0 +1,16 @@
+.10142048-22 :1 ;HTU31 Relative Humidity + Temp Sensor
+"1014204822"
+*STM IC
+*NGS
+*PLB 1="SDA" 2="GND" 3="IC_ADD" 4="RST" 5="VDD" 6="SCL" 7="EP"
+*MXP 7
+*DFN 10142048-22
+~!Mouser Part Number (824-10142048-22)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Measurement-Specialties/10142048-22?qs=pBJMDPsKWf27qHZ1nGsrJA%3D%3D)
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (10142048-22)
+~!Link Datasheet (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FHTU31_RHT_SENSOR_IC%7F4%7Fpdf%7FEnglish%7FENG_DS_HTU31_RHT_SENSOR_IC_4.pdf%7F10142048-22)
+~!Height (1mm)
+~!3D_Model (10142048-22)
+"10142048-22"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 

@@ -2413,6 +2413,142 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:AC"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "AC"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"AC\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "AC_0_1"
+				(arc
+					(start -1.27 3.175)
+					(mid -0.635 3.8073)
+					(end 0 3.175)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 3.175)
+					(radius 1.905)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.27 3.175)
+					(mid 0.635 2.5427)
+					(end 0 3.175)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "AC_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:GND"
 			(power)
 			(pin_numbers
@@ -2532,6 +2668,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0f315d77-df0a-4a93-bb1b-07d9d92a58d2")
+	)
+	(junction
+		(at 29.21 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2436b04c-3ed1-47be-8a62-c9d86f05ae23")
 	)
 	(junction
 		(at 53.34 100.33)
@@ -3169,6 +3311,16 @@
 	)
 	(wire
 		(pts
+			(xy 15.24 59.69) (xy 15.24 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f8045ac-a0c8-4033-b13c-a15658023c07")
+	)
+	(wire
+		(pts
 			(xy 69.85 125.73) (xy 46.99 125.73)
 		)
 		(stroke
@@ -3176,6 +3328,16 @@
 			(type default)
 		)
 		(uuid "72b1e456-1494-4dda-bf77-aff10818f09e")
+	)
+	(wire
+		(pts
+			(xy 29.21 59.69) (xy 15.24 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "741c3a6b-34e0-4dc7-9d0f-b32d755dc33f")
 	)
 	(wire
 		(pts
@@ -4205,6 +4367,72 @@
 			(project ""
 				(path "/8f4ec0db-d54b-4b4a-bf20-32f8c98f56be"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:AC")
+		(at 15.24 58.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7167b204-f668-47dc-aa64-e866efb424b8")
+		(property "Reference" "#PWR051"
+			(at 15.24 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "24VAC"
+			(at 15.24 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 15.24 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 15.24 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"AC\""
+			(at 15.24 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e2165eba-1e50-4841-86f4-40815bbc7281")
+		)
+		(instances
+			(project ""
+				(path "/8f4ec0db-d54b-4b4a-bf20-32f8c98f56be"
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -5360,6 +5588,48 @@
 		)
 	)
 	(sheet
+		(at 198.12 21.59)
+		(size 26.67 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "41c499a5-fec1-41ec-b88f-abc5d5b7834f")
+		(property "Sheetname" "sensors"
+			(at 198.12 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sensor.kicad_sch"
+			(at 198.12 34.8746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ThermSupport"
+				(path "/8f4ec0db-d54b-4b4a-bf20-32f8c98f56be"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 240.03 52.07)
 		(size 33.02 17.78)
 		(exclude_from_sim no)
@@ -5397,6 +5667,48 @@
 			(project "ThermSupport"
 				(path "/8f4ec0db-d54b-4b4a-bf20-32f8c98f56be"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 241.3 120.65)
+		(size 31.75 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6093078e-592e-4555-945c-559c2b52eb08")
+		(property "Sheetname" "relay"
+			(at 241.3 119.9384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "relay.kicad_sch"
+			(at 241.3 139.0146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ThermSupport"
+				(path "/8f4ec0db-d54b-4b4a-bf20-32f8c98f56be"
+					(page "5")
 				)
 			)
 		)

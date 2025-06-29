@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TCAL9539RTWRQ1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TCAL9539RTWRQ1" (!) = "", "QFN50P400X400X80-25N-D", "Quad Flat No-Lead", "595-TCAL9539RTWRQ1", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCAL9539RTWRQ1?qs=HoCaDK9Nz5cqBCs4xXWfwA%3D%3D", "Interface - I/O Expanders Automotive 16-bit low voltage IC/SMBus I/O expander w/interrupt, reset and agile I/O configuration 24-WQFN -40 to 125", "https://www.ti.com/lit/ds/symlink/tcal9539-q1.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1700652795434&ref_url=https%253A%252F%252Fwww.mouser.co.il%252F", "0.8 mm"
+END_PART
+
+END.

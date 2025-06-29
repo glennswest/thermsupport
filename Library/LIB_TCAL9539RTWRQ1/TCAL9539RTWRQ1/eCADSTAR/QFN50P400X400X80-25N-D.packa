@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TCAL9539RTWRQ1"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-11-22-11:42:52)
+    (mountForm default
+        (footprintRef "QFN50P400X400X80-25N-D")
+        (spec "System")
+    )
+)

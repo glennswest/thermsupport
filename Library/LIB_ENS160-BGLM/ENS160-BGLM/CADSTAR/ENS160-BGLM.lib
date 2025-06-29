@@ -1,0 +1,16 @@
+.ENS160-BGLM :1 ;Air Quality Sensors ENS160-BGLM LGA9 T&R 500
+ENS160BGLM
+*STM IC
+*NGS
+*PLB 1="MOSI / SDA" 2="SCLK / SCL " 3="MISO / ADDR" 4="VDD" 5="VDDIO " 6="INTN " 7="CSN" 8="VSS _1" 9="VSS _2"
+*MXP 9
+*DFN ENS160-BGLM
+~!Mouser Part Number (135-ENS160-BGLM)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ScioSense/ENS160-BGLM?qs=DRkmTr78QAQKsjT0z3MHoA%3D%3D)
+~!Manufacturer_Name (ScioSense)
+~!Manufacturer_Part_Number (ENS160-BGLM)
+~!Link Datasheet (https://www.sciosense.com/wp-content/uploads/documents/SC-001224-DS-6-ENS160-Datasheet-Version-1.0-1.pdf)
+~!Height (0.9mm)
+~!3D_Model (ENS160-BGLM)
+ENS160-BGLM
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 

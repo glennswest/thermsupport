@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'UC2_3NJ'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "KEMET", "UC2-3NJ" (!) = "", "UC23NJ", "Other", "551-UC2-3NJ", "https://www.mouser.co.uk/ProductDetail/KEMET/UC2-3NJ?qs=rjnFDYRVT0pG6uPYp31kIg%3D%3D", "KEMET, UC2, Relays, Signal, 3 V, 220 V, 250 VAC, 1 A, 100 mOhms, 1 GOhms, 10.6mm, 6.5mm, 5.3mm", "https://content.kemet.com/datasheets/KEM_R7005_UC2_UD2.pdf", "5.3 mm"
+END_PART
+
+END.

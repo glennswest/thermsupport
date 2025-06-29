@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "UC2-3NJ"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-02-18-11:54:55)
+    (mountForm default
+        (footprintRef "UC23NJ")
+        (spec "System")
+    )
+)

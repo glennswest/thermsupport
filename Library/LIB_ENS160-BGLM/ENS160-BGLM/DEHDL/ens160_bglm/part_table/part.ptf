@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ENS160_BGLM'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ScioSense", "ENS160-BGLM" (!) = "", "ENS160BGLM", "Other", "135-ENS160-BGLM", "https://www.mouser.co.uk/ProductDetail/ScioSense/ENS160-BGLM?qs=DRkmTr78QAQKsjT0z3MHoA%3D%3D", "Air Quality Sensors ENS160-BGLM LGA9 T&R 500", "https://www.sciosense.com/wp-content/uploads/documents/SC-001224-DS-6-ENS160-Datasheet-Version-1.0-1.pdf", "0.9 mm"
+END_PART
+
+END.

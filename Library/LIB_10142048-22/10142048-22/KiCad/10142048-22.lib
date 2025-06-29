@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 10142048-22
+#/15644852/1706405/2.50/7/3/Integrated Circuit
+DEF 10142048-22 IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "10142048-22" 1050 200 50 H V L CNN
+F2 "1014204822" 1050 100 50 H I L CNN
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FHTU31_RHT_SENSOR_IC%7F4%7Fpdf%7FEnglish%7FENG_DS_HTU31_RHT_SENSOR_IC_4.pdf%7F10142048-22" 1050 0 50 H I L CNN
+F4 "HTU31 Relative Humidity + Temp Sensor" 1050 -100 50 H I L CNN "Description"
+F5 "1" 1050 -200 50 H I L CNN "Height"
+F6 "824-10142048-22" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Measurement-Specialties/10142048-22?qs=pBJMDPsKWf27qHZ1nGsrJA%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "TE Connectivity" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "10142048-22" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X SDA 1 0 0 200 R 50 50 0 0 P
+X GND 2 0 -100 200 R 50 50 0 0 P
+X IC_ADD 3 0 -200 200 R 50 50 0 0 P
+X RST 4 0 -300 200 R 50 50 0 0 P
+X VDD 5 1200 0 200 L 50 50 0 0 P
+X SCL 6 1200 -100 200 L 50 50 0 0 P
+X EP 7 1200 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

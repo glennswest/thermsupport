@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ENS160-BGLM
+#/15775731/1706405/2.50/9/3/Integrated Circuit
+DEF ENS160-BGLM IC 0 30 Y Y 1 F N
+F0 "IC" 1450 300 50 H V L CNN
+F1 "ENS160-BGLM" 1450 200 50 H V L CNN
+F2 "ENS160BGLM" 1450 100 50 H I L CNN
+F3 "https://www.sciosense.com/wp-content/uploads/documents/SC-001224-DS-6-ENS160-Datasheet-Version-1.0-1.pdf" 1450 0 50 H I L CNN
+F4 "Air Quality Sensors ENS160-BGLM LGA9 T&R 500" 1450 -100 50 H I L CNN "Description"
+F5 "0.9" 1450 -200 50 H I L CNN "Height"
+F6 "135-ENS160-BGLM" 1450 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/ScioSense/ENS160-BGLM?qs=DRkmTr78QAQKsjT0z3MHoA%3D%3D" 1450 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "ScioSense" 1450 -500 50 H I L CNN "Manufacturer_Name"
+F9 "ENS160-BGLM" 1450 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X MOSI_/_SDA 1 0 0 200 R 50 50 0 0 P
+X SCLK_/_SCL_ 2 0 -100 200 R 50 50 0 0 P
+X MISO_/_ADDR 3 0 -200 200 R 50 50 0 0 P
+X VDD 4 0 -300 200 R 50 50 0 0 P
+X VDDIO_ 5 0 -400 200 R 50 50 0 0 P
+X INTN_ 6 1600 0 200 L 50 50 0 0 P
+X CSN 7 1600 -100 200 L 50 50 0 0 P
+X VSS__1 8 1600 -200 200 L 50 50 0 0 P
+X VSS__2 9 1600 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1400 100 1400 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,16 @@
+.150505M173300 :1 ;2.4 V RGB LED 5050  SMD, Wurth Elektronik WL-SFTW 150505M173300
+"150505M173300"
+*STM LED
+*NGS
+*PLB 1="K_B" 2="A_B" 3="K_R" 4="A_R" 5="K_G" 6="A_G"
+*MXP 6
+*DFN 150505M173300
+~!Mouser Part Number (710-150505M173300)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150505M173300?qs=fAHHVMwC%252Bbi%2FURn4Qu0%2FAA%3D%3D)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (150505M173300)
+~!Link Datasheet (https://www.we-online.com/components/products/datasheet/150505M173300.pdf)
+~!Height (1.7mm)
+~!3D_Model (150505M173300)
+"150505M173300"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

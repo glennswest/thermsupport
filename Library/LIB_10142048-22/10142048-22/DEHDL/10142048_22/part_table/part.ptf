@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '10142048_22'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "10142048-22" (!) = "", "1014204822", "Other", "824-10142048-22", "https://www.mouser.co.uk/ProductDetail/Measurement-Specialties/10142048-22?qs=pBJMDPsKWf27qHZ1nGsrJA%3D%3D", "HTU31 Relative Humidity + Temp Sensor", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FHTU31_RHT_SENSOR_IC%7F4%7Fpdf%7FEnglish%7FENG_DS_HTU31_RHT_SENSOR_IC_4.pdf%7F10142048-22", "1 mm"
+END_PART
+
+END.

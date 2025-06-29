@@ -1,0 +1,215 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "UC2-3NJ"
+   (description "KEMET, UC2, Relays, Signal, 3 V, 220 V, 250 VAC, 1 A, 100 mOhms, 1 GOhms, 10.6mm, 6.5mm, 5.3mm")
+   (family "RLY")
+   (package "UC23NJ")
+   (attribute "Datasheet Link" "https://content.kemet.com/datasheets/KEM_R7005_UC2_UD2.pdf")
+   (attribute "Geometry.Height" "5.3mm")
+   (attribute "Mouser Part Number" "551-UC2-3NJ")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/UC2-3NJ?qs=rjnFDYRVT0pG6uPYp31kIg%3D%3D")
+   (attribute "Manufacturer_Name" "KEMET")
+   (attribute "Manufacturer_Part_Number" "UC2-3NJ")
+   (gate
+    (symbol "UC2-3NJ")
+    (pin "COIL+" 1 PS)
+    (pin "NC_1" 2 PS)
+    (pin "COM_1" 3 PS)
+    (pin "NO_1" 4 PS)
+    (pin "NO_2" 5 PS)
+    (pin "COM_2" 6 PS)
+    (pin "NC_2" 7 PS)
+    (pin "COIL-" 8 PS)
+   )
+  )
+  (symbol "UC2-3NJ"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "UC23NJ"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.5 5.79)
+      (pt 9.1 5.79)
+      (pt 9.1 -0.71)
+      (pt -1.5 -0.71)
+      (pt -1.5 5.79))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.25 -0.71)
+      (pt -1.5 -0.71)
+      (pt -1.5 -0.71)
+      (pt -1.25 -0.71)
+      (pt -1.25 -0.71))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.5 -0.71)
+      (pt -1.5 -0.71)
+      (pt -1.5 5.79)
+      (pt -1.5 5.79)
+      (pt -1.5 -0.71))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.5 5.79)
+      (pt -1.25 5.79)
+      (pt -1.25 5.79)
+      (pt -1.5 5.79)
+      (pt -1.5 5.79))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 1 5.79)
+      (pt 2.25 5.79)
+      (pt 2.25 5.79)
+      (pt 1 5.79)
+      (pt 1 5.79))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 8.75 5.79)
+      (pt 9.1 5.79)
+      (pt 9.1 5.79)
+      (pt 8.75 5.79)
+      (pt 8.75 5.79))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 9.1 5.79)
+      (pt 9.1 5.79)
+      (pt 9.1 -0.71)
+      (pt 9.1 -0.71)
+      (pt 9.1 5.79))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 9.1 -0.71)
+      (pt 8.75 -0.71)
+      (pt 8.75 -0.71)
+      (pt 9.1 -0.71)
+      (pt 9.1 -0.71))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 2.25 -0.71)
+      (pt 1 -0.71)
+      (pt 1 -0.71)
+      (pt 2.25 -0.71)
+      (pt 2.25 -0.71))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.5 -2.6)
+      (pt 10.1 -2.6)
+      (pt 10.1 6.79)
+      (pt -2.5 6.79)
+      (pt -2.5 -2.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0 -1.6)
+      (arc (pt 0.000 -1.600) (pt -0.050 -1.500) (pt 0.050 -1.600) (start 180.0) (sweep -90.0))
+      (pt 0 -1.5)
+      (arc (pt 0.000 -1.500) (pt -0.050 -1.500) (pt 0.050 -1.600) (start 180.0) (sweep 90.0))
+      (pt 0 -1.6)
+      (arc (pt 0.000 -1.600) (pt -0.050 -1.500) (pt 0.050 -1.600) (start 180.0) (sweep -90.0))
+      (pt 0 -1.5))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 3.200 0.000) (padstack 0))
+   (leg 3 (pt 5.400 0.000) (padstack 0))
+   (leg 4 (pt 7.600 0.000) (padstack 0))
+   (leg 5 (pt 7.600 5.080) (padstack 0))
+   (leg 6 (pt 5.400 5.080) (padstack 0))
+   (leg 7 (pt 3.200 5.080) (padstack 0))
+   (leg 8 (pt 0.000 5.080) (padstack 0))
+   (padstack 0
+    (hole 0.85)
+    (plated true)
+    (pad (layer TCOP) (round 1.381))
+    (pad (layer INNER) (round 1.381))
+    (pad (layer BCOP) (round 1.381))
+   )
+   (model "UC2-3NJ.stp"
+    (euler 90 0 0)
+    (offset -1.75 -0.8700000047683716 0.4699999988079071)
+   )
+  )
+ )
+)

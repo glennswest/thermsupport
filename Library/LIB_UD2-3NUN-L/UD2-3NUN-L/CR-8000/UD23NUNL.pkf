@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "UD23NUNL"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "UD23NUNL")
+        (spec "default")
+    )
+)

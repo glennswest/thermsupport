@@ -1,0 +1,9 @@
+Manufacturer=Würth Elektronik
+PartNumber=150505M173300
+PartCategory=LED
+PackageCategory=Other
+PinCount=6
+Version=1.2
+Released=2019-07-27 10:57:37
+Downloaded=2025-06-19 19:26:09
+3D=Y
